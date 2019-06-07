@@ -6,7 +6,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>rest-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>rest-server</name>
 	<description>Rest App project for Spring Boot</description>
